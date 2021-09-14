@@ -1,0 +1,132 @@
+li.menu {
+  color: white;
+  background-color: gold;
+  display: inline-block;
+  width: 30%;
+  height: 0.8cm;
+  padding: 0.5%;
+}
+
+.schedule {
+  background-color: antiquewhite;
+  width: 32%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1%;
+}
+
+.schedule tr {
+  background-color: antiquewhite;
+  border: solid;
+  padding: 1%;
+}
+
+.schedule td {
+  background-color: antiquewhite;
+  border: solid;
+}
+
+.leftdiv {
+  float: left;
+  color: gold;
+  background-color: grey;
+  padding: 1%;
+  width: 31%;
+}
+.middlediv {
+  float: left;
+  background-color: grey;
+  padding: 1%;
+  width: 31%;
+}
+.rightdiv {
+  float: left;
+  color: gold;
+  background-color: grey;
+  padding: 1%;
+  width: 31%;
+}
+
+.center {
+  text-align: center;
+}
+
+#Up_Next {
+  border-style: dotted;
+  font-size: larger;
+  padding: 1%;
+}
+
+.leftdiv2 {
+  float: left;
+  color: darkred;
+  padding: 1%;
+  width: 31%;
+}
+.middlediv2 {
+  float: left;
+  color: darkred;
+  padding: 1%;
+  width: 31%;
+}
+.rightdiv2 {
+  float: left;
+  color: darkred;
+  padding: 1%;
+  width: 31%;
+}
+
+.license {
+  text-align: center;
+}
+
+.Sports_Calendar table {
+  background-color: white;
+  width: 100%;
+}
+
+.Sports_Calendar thead tr {
+  font-size: larger;
+  border: black;
+}
+.Sports_Calendar thead tr,
+tbody td {
+  padding: 1%;
+  text-align: left;
+  border-bottom: 1px solid gold;
+}
+
+.Sports_Calendar tr:hover {
+  background-color: rgba(139, 0, 0, 0.838);
+}
+
+.text1 {
+  text-align: left;
+  color: darkred;
+}
+
+.text2 {
+  text-align: right;
+  color: gold;
+}
+
+.header {
+  background-color: darkred;
+  text-align: center;
+  font-size: x-large;
+  color: white;
+  padding: 1%;
+}
+
+.football {
+  font-size: larger;
+  background-color: black;
+  color: white;
+  padding: 0.5%;
+}
+
+#victory {
+  font-size: larger;
+  text-align: center;
+  font-weight: bolder;
+}
