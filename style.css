@@ -131,8 +131,8 @@ tbody td {
   font-weight: bolder;
 }
 
-@media only screen and (orientation: landscape) {
+@media only screen and (orientation: portrait) {
   body {
-    background-color: lightblue;
+    background-color: rgb(135, 175, 131);
   }
 }
